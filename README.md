@@ -9,3 +9,7 @@ This project is a simple TODO add list app to add your daily tasks.
 ![Third Image](https://github.com/sarthakjain07/TO_DO_APP/blob/master/Screenshots/After_adding_edit.png)
 4. After clicking on Edit button
 ![Fourth Image](https://github.com/sarthakjain07/TO_DO_APP/blob/master/Screenshots/After_clicking_on_edit.png)
+5. Giving the input to update
+![Fifth Image](https://github.com/sarthakjain07/TO_DO_APP/blob/master/Screenshots/Update_ToDo.png)
+6. Successfully Updation of to do
+![Sixth Image](https://github.com/sarthakjain07/TO_DO_APP/blob/master/Screenshots/After_updation.png)
