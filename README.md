@@ -1,5 +1,5 @@
 # A real time TO_DO APP
-This project is a simple TODO add list app to add your daily tasks.
+This project is a simple TODO add list app so that you accomplish your daily tasks.
 # Screenshot
 1. Initial page 
 ![Home Page](https://github.com/sarthakjain07/TO_DO_APP/blob/master/Screenshots/without_data.png)
